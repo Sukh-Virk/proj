@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Food Recipe Platform</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Navbar -->
+  <header class="navbar">
+    <div class="logo">Foodie<span>Recipes</span></div>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Recipes</a></li>
+        <li><a href="#">Meal Planning</a></li>
+        <li><a href="#">Nutrition</a></li>
+        <li><a href="#">Save Recipes</a></li>
+      </ul>
+    </nav>
+    <a href="#" class="cta-btn">Buy now</a>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Easy Recipes for Any Taste</h1>
+      <p>Discover a variety of easy-to-follow recipes, meal plans, and nutritional insights tailored to your preferences.</p>
+      <div class="hero-buttons">
+        <a href="#" class="button-primary">Explore Recipes</a>
+        <a href="#" class="button-secondary">Plan Your Meal</a>
+      </div>
+    </div>
+    <div class="hero-image">
+      <img src="/images/salad-2756467_1280.jpg" alt="Delicious food">
+    </div>
+  </section>
+
+  <!-- Features Section -->
+  <section class="features">
+    <h2>Our Features</h2>
+    <div class="feature-list">
+      <div class="feature-item">
+        <h3>Search Recipes</h3>
+        <p>Find recipes by nutrients, cooking time, and difficulty.</p>
+      </div>
+      <div class="feature-item">
+        <h3>Nutrition Calculator</h3>
+        <p>Get calorie and nutritional breakdown of your meals.</p>
+      </div>
+      <div class="feature-item">
+        <h3>Difficulty Estimator</h3>
+        <p>Choose recipes by difficulty level that suits you best.</p>
+      </div>
+      <div class="feature-item">
+        <h3>Meal Planning Tool</h3>
+        <p>Personalized meal plans with shopping lists.</p>
+      </div>
+      <div class="feature-item">
+        <h3>Food Suggestions</h3>
+        <p>Recommended recipes based on your preferences.</p>
+      </div>
+      <div class="feature-item">
+        <h3>Save Recipes</h3>
+        <p>Save your favorite recipes for quick access later.</p>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
